@@ -1,0 +1,10 @@
+site_name: napari-hdf5
+site_description: A napari plugin to open hdf5 files and datasets
+site_author: Luigi Petrucco
+
+theme: readthedocs
+
+repo_url: https://github.com/vigji/napari-hdf5
+
+pages:
+- Home: index.md

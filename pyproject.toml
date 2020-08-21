@@ -1,0 +1,5 @@
+[tool.setuptools_scm]
+write_to = "pkg/version.py"
+
+[build-system]
+requires = ["setuptools>=30.3.0", "wheel", "setuptools_scm"]
